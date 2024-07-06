@@ -1,2 +1,2 @@
-# Faculty of Technology-Delhi University
+# Faculty of Technology - Delhi University
  Notices & Important Information
