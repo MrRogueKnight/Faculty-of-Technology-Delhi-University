@@ -10,7 +10,8 @@ Links !
 
 
 
-Updates: 
+## Updates:
+ 
 Note: Last date of registration: Saturday, May 25, 2024
 
 The University of Delhi, through its Faculty of Technology (FoT), offers the following B.Tech. Programs:
