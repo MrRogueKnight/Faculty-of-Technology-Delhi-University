@@ -10,10 +10,7 @@ Links !
 
 
 
-## Updates:
- 
-Note: Last date of registration: Saturday, May 25, 2024
-
+## Branches:
 The University of Delhi, through its Faculty of Technology (FoT), offers the following B.Tech. Programs:
 
     B.Tech. (Computer Science and Engineering)
@@ -22,4 +19,9 @@ The University of Delhi, through its Faculty of Technology (FoT), offers the fol
 
  
 
-For the academic year 2024-25, admission to the B.Tech. programs of UoD will be done on the basis of the All India Common Rank List (CRL) of the Joint Entrance Examination (Main) Paper-I, 2024. For further details, visit this website on a regular basis.
+## Updates: 
+Note: Last date of registration: Saturday, May 25, 2024
+
+## Discussion :
+https://www.reddit.com/r/DelhiUniversity/
+https://www.reddit.com/r/FacultyOfTechnologyDu/
